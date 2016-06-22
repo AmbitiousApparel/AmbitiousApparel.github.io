@@ -1,0 +1,14 @@
+- name: Amazon
+  hasLink: true
+  link: https://www.amazon.com
+  description: Amazon
+
+- name: Paypal
+  hasLink: true
+  link: https://www.paypal.com
+  description: Paypal
+
+- name: Ebay
+  hasLink: true
+  link: https://www.Ebay.com
+  description: Ebay

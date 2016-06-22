@@ -1,0 +1,9 @@
+# Site settings
+title: James Kellermn
+email: jfk535@mst.edu
+description: My name is James Kellerman and I enjoy watching code come to life.
+url: "http://jameskellerman.com" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown

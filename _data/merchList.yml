@@ -1,0 +1,19 @@
+- name: Monochromatic
+  hasLink: false
+  description: Black and White classic shirts
+  image: ../images/Monochrome.png
+
+- name: Girls Monochromatic
+  hasLink: false
+  description: Black and White classic shirts for females
+  image: ../images/GirlMonochrome.png
+
+- name: Girls Monochromatic Design
+  hasLink: false
+  description: Black and White design shirts for females
+  image: ../images/GirlMonochromeDesign.jpg
+
+- name: Search Some Shit
+  hasLink: true
+  link: https://google.com
+  description: Find your own shi(r)ts
